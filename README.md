@@ -1,6 +1,6 @@
 # Financial_Planner
 
-![financial image](financial-planner-image.png)
+![financial image](fintech_image.png)
 
 This Financial_Planner repository is made up of two financial analysis tools inside one jupyter notebook. It consists of a fianacial planner for emergencies, and another one for retirement. I have leveraged Pandas and the data analysis tools available to visualize if the user has enough reserve funds for and emergency and then I go on to create a financial planner for retirement. This tool will forecast the performance of a retirement portfolio for 30 years. We do this by making an Alpaca API Call via the Alpaca SDK to get historical price data and use this data in a few Monte Carlo simulations.
 
