@@ -10,11 +10,17 @@ This Financial_Planner repository is made up of two financial analysis tools ins
 This Analysis uses Python 3.7 with the following packages:
 
 ``` pandas ```
+
 ``` requests ```
+
 ``` json ```
+
 ``` os ```
+
 ``` dotenv ```
+
 ``` alpaca_trade_api ```
+
 ``` MCForecastTools ```
 
 
@@ -23,10 +29,15 @@ This Analysis uses Python 3.7 with the following packages:
 This Analysis was done with ``` Pandas ``` on ``` Jupyter Lab ```  To run the functions and interact with the notebook, first install the following:
 
 ``` pip jupyter lab ```
+
 ``` pip install python 3.7 ```
+
 ``` conda install -c anaconda requests ```
+
 ``` conda install -c mcmurray json ```
+
 ``` pip install python-dotenv ```
+
 ``` pip install alpaca-trade-api ```
 
 
