@@ -46,7 +46,7 @@ This Analysis was done with ``` Pandas ``` on ``` Jupyter Lab ```  To run the fu
 The file of interest is ``` financial_planning_tools.ipynb ```
 If someone wanted to replicate the functions with different data, it can be done, it would require going to 
 [Alpaca API](https://app.alpaca.markets/login) to signup for a free API Key and Secret Key and then saving those keys into a .env file in the working folder.
-Then with the ``` load_dotenv ``` function, we are able to pull the keys from a hidden .env file and that way our sensative info stays hidden.
+Then with the ``` load_dotenv ``` function, we are able to pull the keys from a hidden .env file and that way our sensitive info stays hidden.
 
 
 ## Contributors
